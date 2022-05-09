@@ -1,16 +1,17 @@
 [
   {
+    "chainId": 101,
+    "address": "866Z6snjQuaAzs6gubHJwPQso6jCrPHrZCY7GqoFVAEE",
     "symbol": "cstlUSDC",
     "name": "Castle Vault USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/castle-finance/castle-lp-token-list/main/assets/mainnet/866Z6snjQuaAzs6gubHJwPQso6jCrPHrZCY7GqoFVAEE/icon.png",
     "decimals": 6,
-    "address": "866Z6snjQuaAzs6gubHJwPQso6jCrPHrZCY7GqoFVAEE",
-    "chainId": 101,
+    "logoURI": "https://raw.githubusercontent.com/castle-finance/castle-lp-token-list/main/assets/mainnet/866Z6snjQuaAzs6gubHJwPQso6jCrPHrZCY7GqoFVAEE/icon.png",
     "tags": [
-      "castle-vault-lp"
+      "lp-token"
     ],
     "extensions": {
-      "website": "https://app.castle.finance/vault/3tBqjyYtf9Utb1NNsx4o7AV1qtzHoxsMXgkmat3rZ3y6"
+      "website": "https://app.castle.finance/vault/3tBqjyYtf9Utb1NNsx4o7AV1qtzHoxsMXgkmat3rZ3y6",
+      "twitter": "https://twitter.com/CastleFinance"
     }
   }
 ]
